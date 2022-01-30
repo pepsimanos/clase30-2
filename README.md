@@ -1,2 +1,2 @@
-# clase30-2
-pajaros fium cerdo desaparece 2
+# AngryBirdsEtapa3
+Angry Birds Etapa 3: Introduciendo la Restricción
